@@ -42,7 +42,7 @@ This repository contains my AWS S3 learning notes, practical implementations, co
 - `07-bucket-policy.md` - Bucket policies and access control
 - `08-static-website-hosting.md` - Hosting a static website using S3
 - `09-aws-cli-s3.md` - Managing S3 using AWS CLI
-- `10-interview-questions.md` - S3 interview preparation
+
 
 ---
 
